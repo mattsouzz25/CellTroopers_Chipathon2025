@@ -1,2 +1,3 @@
-# CellTroopers_Chipathon2025
-Digital Building Blocks 
+# CellTroopers - Chipathon 2025
+
+CellTroopers is an innovative project focused on expanding the OSU standard cell library and creating new open-source tools for cell characterization. Our mission is to improve semiconductor design workflows and promote collaboration in the semiconductor design community.
